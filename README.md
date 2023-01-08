@@ -11,7 +11,7 @@
 
 ## To run project
 
-    git clone https://github.com/SV96/react-todo.git
+    git clone https://github.com/SV96/mycart.git
     cd cart
     npm install
 
